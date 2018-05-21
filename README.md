@@ -14,7 +14,7 @@ _Client_
 When you submit, please include the link to this repo. Include your deployed links below:
 
 Copy and Paste the Deployed Client Link to this README
-> your url here
+https://donutz-three.firebaseapp.com/
 
 Copy and Paste the Deployed Server Link to this README
-> you url here
+https://frozen-sea-54824.herokuapp.com/hole
